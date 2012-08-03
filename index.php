@@ -2,7 +2,8 @@
 require_once __DIR__.'/vendor/simplehtmldom/1.5/simple_html_dom.php';
 
 // Change this depending on your account
-$url = 'https://wwws-uk1.givex.com/public/balance/history.py?282650254+_LANGUAGE_:en+webinfo_id:3800985114x55833f801f6dcbcec42c8b670a5b5846x38';
+//$url = 'https://wwws-uk1.givex.com/public/balance/history.py?282650254+_LANGUAGE_:en+webinfo_id:3800985114x55833f801f6dcbcec42c8b670a5b5846x38';
+$url = 'https://wwws-uk1.givex.com/public/balance/history.py?282650038+_LANGUAGE_:en+webinfo_id:3800985614x1eef9bad439a77319e3e8d5374ddbd7dx38';
 
 $html = file_get_html($url);
 
