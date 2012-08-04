@@ -9,6 +9,7 @@
     <title>City Arms Balance</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
 
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
     <link rel="stylesheet" href="css/main.css">
